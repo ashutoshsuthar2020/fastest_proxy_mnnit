@@ -2,7 +2,6 @@
 url='https://sample-videos.com/img/Sample-jpg-image-5mb.jpg'
 url='https://sample-videos.com/img/Sample-jpg-image-500kb.jpg'
 max_speed=0
-# https://stackoverflow.com/questions/22009364/is-there-a-try-catch-command-in-bash
 
 # proxy_list=("172.31.100.26" "172.31.100.25" "172.31.100.14" "172.31.100.27" "172.31.100.29" "172.31.100.30" "172.31.102.14" "172.31.102.29")
 readarray -t proxy_list < ./proxy_list.txt
